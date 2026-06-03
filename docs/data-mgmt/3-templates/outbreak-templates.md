@@ -21,10 +21,6 @@ To access installation files to begin collecting data for any of the below disea
   - [Metadata Overview Guide](https://github.com/WorldHealthOrganization/godata/blob/master/docs/data-mgmt/3-templates/Go.Data%20Metadata%20Overview%20-%20Influenza.pdf)
   - [Detailed Data Dictionary - Aligned with the Protocol to investigate non-seasonal influenza and other emerging acute respiratory diseases and the influenza investigations and studies (UNITY studies) protocols](https://github.com/WorldHealthOrganization/godata/blob/master/docs/data-mgmt/3-templates/Go.Data%20-%20Influenza%20Template%20-%20Data%20Dictionary_2025.xlsx) 
 
-In the upcoming v50 release, the updated "Influenza viruses with pandemic potential" template will be integrated directly into the Templates section of the application. 
-
-To obtain credentials to the demo instance to see the template in use, kindly send an email to [godata@who.int](godata@who.int). 
-
 
 ## Yellow Fever 
 - [Metadata Overview Guide](https://sprcdn-assets.sprinklr.com/1652/3f1f7d75-d578-40dc-bb6b-87930da9b5e5-911807302.pdf)
@@ -32,20 +28,7 @@ To obtain credentials to the demo instance to see the template in use, kindly se
 
 ## Mpox 
  
-  - [Detailed Data Dictionary - Aligned with 2024 Case Report Form (CRF) and Case Investigation Forms (CIF)](https://docs.google.com/spreadsheets/d/1Bch_R4-J7u2el33uUBwpnUtflQWrHrcw/edit?usp=drive_web&ouid=111074494541402159127&rtpof=true) 
-
-*The Go.Data v49 release includes an mpox template aligned with the 2022 WHO CRF and CIF. To access the latest version of the form, users can import the mpox outbreak sync package along with the corresponding language file.
-
-In the upcoming v50 release, the updated mpox template will be integrated directly into the Templates section of the application. Meanwhile, users have two options to utilize the most recent mpox template:
-
-1) [mpox sync package WITH reference data](https://drive.google.com/file/d/1c-rzV5u3hyuce25MZ2A2_0A5YlAzsvzR/view?usp=drive_link): This option includes the outbreak forms, mpox-specific reference data, and a separate language file.
-   
-
-3) [mpox sync package](https://drive.google.com/file/d/1gfZ2qkfx1aBimDViVvF1JlDFicWs_SRF/view?usp=drive_link): This option includes the outbreak forms and a separate language file. Users can create and customize mpox-specific reference data as needed.
-
-**Important: The language file must be merged with the system's language file and should not be imported using the sync package.
-
-To obtain credentials to the demo instance to see the template in use, kindly send an email to [godata@who.int](godata@who.int). 
+  - [Detailed Data Dictionary - Aligned with 2024 Case Report Form (CRF) and Case Investigation Forms (CIF)](https://docs.google.com/spreadsheets/d/1Bch_R4-J7u2el33uUBwpnUtflQWrHrcw/edit?usp=drive_web&ouid=111074494541402159127&rtpof=true)
 
 ## Cholera
 - Metadata Overview Guide
